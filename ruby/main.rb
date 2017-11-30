@@ -19,7 +19,7 @@ case greeting
 # account for either uppercase or lowercase
 when "German", "german"
     puts "Guten Tag, wie heissen sie?"
-exit
+    exit
 when "Swedish", "swedish"
     puts "god dag, vad heter du?"
     exit
